@@ -56,10 +56,6 @@ I improved my skill with react.js framework and i lose the fear to make css code
 
 - [React.js](https://reactjs.org/)
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:
