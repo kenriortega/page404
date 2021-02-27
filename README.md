@@ -36,33 +36,32 @@
 
 ## Overview
 
-
 ![screenshot](src/img/web.png)
 
-In this demo the user can see the simple web site with content 404 not found, this page it`s used when the content are unavilable, or dose not exsit.
+In this demo the user can see a simple web site with content 404 not found, this page is used when the content is unavailable, or does not exist.
 
- My experience developing this project was awesome, becouse I`m new in the frontend development, and some time the people say that the backend is hard, but the frontend is very hard.
+My experience developing this project was awesome, because I`m new in the frontend development, and some time the people say that the backend is hard, but the frontend is very hard.
 
- Making this demo i learned how i can work with figma an following the step to focus in the main task, also i learned features realted to css, such as:
-  - import external fonts
-  - custom properties (variables in css)
+Making this demo i learned how i can work with figma an following the steps to focus on the main task, also i learned features realated to css, such as:
 
-I improved my skill with react.js framework and i lose the fear to make css code without any css framework.
+- import external fonts
+- custom properties (variables in css)
 
+I improved my skills with react.js framework and i lose the fear to make css code without any css framework.
 
 ### Built With
 
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
+<!-- This section should list any major frameworks that you used to build your project . Here are a few examples.-->
 
 - [React.js](https://reactjs.org/)
 
 ## Available Scripts
 
-In the project directory, you can run:
+On the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.\
+Runs the app in development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
@@ -84,13 +83,14 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### deploy
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
 ## Features
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
-
 
 ## Acknowledgements
 
@@ -105,4 +105,3 @@ This application/site was created as a submission to a [DevChallenges](https://d
 - Website not yet
 - GitHub [@kenriortega](https://{github.com/kenriortega})
 - Twitter [@kenriortega](https://{twitter.com/kenriortega})
-
