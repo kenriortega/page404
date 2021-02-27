@@ -328,6 +328,8 @@ body {
   }
 
 
+
+}
 @media (orientation: landscape) {
   .title{
     position: absolute;
@@ -414,6 +416,5 @@ footer{
     line-height: 17px;
     /* identical to box height */
     color: var(--footer-text-color);
-}
 }
 }
