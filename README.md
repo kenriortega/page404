@@ -103,5 +103,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website not yet
-- GitHub [@kenriortega](https://{github.com/kenriortega})
-- Twitter [@kenriortega](https://{twitter.com/kenriortega})
+- GitHub [@kenriortega](https://github.com/kenriortega)
+- Twitter [@kenriortega](https://twitter.com/kenriortega)
